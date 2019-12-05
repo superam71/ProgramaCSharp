@@ -1,0 +1,6 @@
+C:\Users\RAMSES\source\repos\lolaahhh\lolaahhh\bin\Debug\lolaahhh.exe.config
+C:\Users\RAMSES\source\repos\lolaahhh\lolaahhh\bin\Debug\lolaahhh.exe
+C:\Users\RAMSES\source\repos\lolaahhh\lolaahhh\bin\Debug\lolaahhh.pdb
+C:\Users\RAMSES\source\repos\lolaahhh\lolaahhh\obj\Debug\lolaahhh.exe
+C:\Users\RAMSES\source\repos\lolaahhh\lolaahhh\obj\Debug\lolaahhh.pdb
+C:\Users\RAMSES\source\repos\lolaahhh\lolaahhh\obj\Debug\lolaahhh.csprojAssemblyReference.cache
